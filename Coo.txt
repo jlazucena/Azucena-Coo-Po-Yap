@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>My Resume</title>
+</head>
+<body background="img/backimg.jpg" >
+  <img src="img/sa.jpg" 
+  style="object-fit:contain;
+  width:200px;
+  height:200px;
+  alt="Applicant img" />
+
+  <h1>JOHN ARWEN P. COO</h1> <hr />
+  <h2>Address and Contact no#</h2>
+  <p>Saligumba St.<br>
+  Passi City, Iloilo<br> 
+  (+63)9821026262 </p>
+  
+  <h2>Skills</h2>
+  
+  <li>Computer Hardware Knowledge.</li>
+  <li>Troubleshooting.</li>
+  <li>Programming Languages.</li>
+  <li>Internet Security.</li>
+  <li>Operating System.</li>
+  <li>Data Privacy.</li>
+
+  <h2>Educational Background</h2>
+  <p>*Studied at the University of Central Philippine University taking up,<br>
+  Bachelor of Science in Information Technology<br> </p>
+  <p>*Graduated in Bachelor of Science in Information Technology,<br>
+  at Central Philippine University </p> 
+  Honors and Awards:
+  <li> <em>Graduated magna cum laude</em> </li>
+  <li> <em>Cumulative GPA of 1.25/1.49</em> </li>
+  <li> <em>1st prize in Hacking Programming</em> </li>
+  <li> <em>Received dean's list every semester</em> </li>
+
+  <h2>Work Experiences</h2>
+  <li>Monitor multiple security systems.</li>
+  <li>Former Programmer at ALPHA Company</li>
+  <li>One of the investigation team in the police Department.</li>
+  <li>Former Programmer at Military Base in Pearl Harbour USA.</li>
+
+  <h2>Certificates</h2>
+  <li> <em>*Certificate of Bachelor's Degree in Information Technology</em> </li>
+  <li> <em>*Certificate of Profession in Information Technology</em> </li>
+  <li> <em>*Certificate of Good Moral</em> </li>
+  <li> <em>*Certificate of Appreciation</em> </li>
+  <li> <em>*Certificate of Good Moral</em> </li>
+  <li> <em>*Certificate of 1st Prize in Hacking Programming</em> </li>
+
+</body>  
+</html>  
